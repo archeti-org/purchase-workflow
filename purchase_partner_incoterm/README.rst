@@ -39,6 +39,8 @@ This module adds incoterms for suppliers and purchase order:
 
 Based on Partner/Supplier It will add Incoterm address.
 
+Based on Partner/Supplier It will add Incoterm address.
+
 **Table of contents**
 
 .. contents::
