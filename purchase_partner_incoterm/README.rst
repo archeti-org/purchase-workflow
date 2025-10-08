@@ -87,6 +87,10 @@ Contributors
 
   - Dhara Solanki <dhara.solanki@initos.com>
 
+- `ArcheTI <https://www.archeti.com>`__:
+
+  - Alexei Rivera <arivera@archeti.com>
+
 - Manish Kumar Bohra manishkumarbohra@outlook.com
 
 - `SolusiAglis <https://solusiaglis.co.id>`__:
